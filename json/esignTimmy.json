@@ -1,0 +1,28 @@
+{
+    "name": "tg: @T1kTokModd",
+    "identifier": " ",
+    "sourceURL": " ",
+	"message": "Telegram: 🔥🔥🔥@T1kTokModd🔥🔥🔥 \n\nЕсли ваш iOS 16+ переходим в настройки -> настройки подписи -> метод установки -> сервер. Иначе приложения не будут устанавливаться!!!",
+    "apps": [
+        {
+            "name": "TikTokLRD",
+            "version": "28.9.1 + LRD2.1",
+            "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_LRD_@T1kTokModd.ipa",
+            "localizedDescription": "Приложение TikTok LRD.",
+            "versionDate": "2023-01-28T19:30:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tticon.png",
+            "size": 227919407 ,
+			"type": "1"
+        },
+        {
+            "name": "TikTokDARK",
+            "version": "28.9.1 + LRD2.1",
+            "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_Dark_@T1kTokModd.ipa",
+            "localizedDescription": "Приложение TikTok DARK.",
+            "versionDate": "2023-01-28T19:30:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tticon.png",
+            "size": 153690824 ,
+			"type": "1"
+        }
+    ]
+}

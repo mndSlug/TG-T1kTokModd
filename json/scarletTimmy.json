@@ -1,0 +1,35 @@
+{
+	"META": {
+		"repoName": "https://t.me/T1kTokModd",
+		"repoIcon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/icon.jpg"
+	},
+	"Tweaked": [{
+		"name": "TikTokLRD",
+		"version": "28.9.1 + LRD",
+		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_LRD_@T1kTokModd.ipa",
+        "category": "Тикток",
+		"description": "LRD модификация ТикТока",
+        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tticon.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+		"web": "https://t.me/T1kTokModd",
+		"twitter": "https://t.me/T1kTokModd"
+}},
+{
+		"name": "TikTokDark",
+		"version": "28.9.1 + Dark",
+		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_Dark_@T1kTokModd.ipa",
+        "category": "Тикток",
+		"description": "Dark модификация ТикТока",
+        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tticon.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+		"web": "https://t.me/T1kTokModd",
+		"twitter": "https://t.me/T1kTokModd"
+}
+}]
+}
