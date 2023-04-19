@@ -44,8 +44,6 @@
 		"description": "Приложение Сбербанка (удалено из AppStore)",
         "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/sbol.png",
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
-        "bundleID": "com.zhiliaoapp.musically",
-		"appstore": "com.zhiliaoapp.musically",
 		"contact": 
 		{
 			"web": "https://t.me/T1kTokModd",
@@ -60,8 +58,6 @@
 		"description": "Приложение СберСпасибо (удалено из AppStore)",
         "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/sber_spasibo.png",
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
-        "bundleID": "com.zhiliaoapp.musically",
-		"appstore": "com.zhiliaoapp.musically",
 		"contact": 
 		{
 			"web": "https://t.me/T1kTokModd",
@@ -74,10 +70,8 @@
 		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/Tinkoff_6.13.5_@T1kTokModd.ipa",
         "category": "Банковские приложения",
 		"description": "Приложение Tinkoff (удалено из AppStore)",
-        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tinkoffIcon.png",
+        "icon": "https://raw.githubusercontent.com/lombergFast/soitropeo/main/501A639C-74A8-47D1-9208-0F0F6237C058.png",
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
-        "bundleID": "com.zhiliaoapp.musically",
-		"appstore": "com.zhiliaoapp.musically",
 		"contact": 
 		{
 			"web": "https://t.me/T1kTokModd",
@@ -92,8 +86,6 @@
 		"description": "Приложение Альфа-Банк (удалено из AppStore)",
         "icon": "https://raw.githubusercontent.com/lombergFast/soitropeo/main/7183C714-BD98-43AB-98D8-D6A3479B63B9.png",
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
-        "bundleID": "com.zhiliaoapp.musically",
-		"appstore": "com.zhiliaoapp.musically",
 		"contact": 
 		{
 			"web": "https://t.me/T1kTokModd",
