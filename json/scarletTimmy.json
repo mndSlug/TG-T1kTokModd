@@ -3,7 +3,8 @@
 		"repoName": "https://t.me/T1kTokModd",
 		"repoIcon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/icon.jpg"
 	},
-	"Tweaked": [{
+	"Tweaked": [
+	{
 		"name": "TikTokLRD",
 		"version": "28.9.1 + LRD",
 		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_LRD_@T1kTokModd.ipa",
@@ -13,11 +14,13 @@
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
         "bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically",
-		"contact": {
-		"web": "https://t.me/T1kTokModd",
-		"twitter": "https://t.me/T1kTokModd"
-}},
-{
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}	
+	},
+	{
 		"name": "TikTokDark",
 		"version": "28.9.1 + Dark",
 		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_Dark_@T1kTokModd.ipa",
@@ -27,9 +30,75 @@
         "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
         "bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically",
-		"contact": {
-		"web": "https://t.me/T1kTokModd",
-		"twitter": "https://t.me/T1kTokModd"
-}
-}]
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}
+	},
+	{
+		"name": "СБОЛ(Сбербанк)",
+		"version": "14.3.0",
+		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/SBOL_14.3.0_@T1kTokModd.ipa",
+        "category": "Банковские приложения",
+		"description": "Приложение Сбербанка (удалено из AppStore)",
+        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/sbol.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}
+	},
+	{
+		"name": "СберСпасибо",
+		"version": "5.2.4",
+		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/SberSpasibo_5.2.4_@T1kTokModd.ipa",
+        "category": "Банковские приложения",
+		"description": "Приложение СберСпасибо (удалено из AppStore)",
+        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/sber_spasibo.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}
+	},
+	{
+		"name": "Tinkoff",
+		"version": "6.13.5",
+		"down": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/Tinkoff_6.13.5_@T1kTokModd.ipa",
+        "category": "Банковские приложения",
+		"description": "Приложение Tinkoff (удалено из AppStore)",
+        "icon": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tinkoffIcon.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}
+	},
+	{
+		"name": "Деньги Всем (Альфа-Банк)",
+		"version": "6.13.5",
+		"down": "https://github.com/lombergFast/soitropeo/releases/latest/download/Dengi_1.1_@ttskarl.ipa",
+        "category": "Банковские приложения",
+		"description": "Приложение Альфа-Банк (удалено из AppStore)",
+        "icon": "https://raw.githubusercontent.com/lombergFast/soitropeo/main/7183C714-BD98-43AB-98D8-D6A3479B63B9.png",
+        "banner": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/scarletBanner.jpg",
+        "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": 
+		{
+			"web": "https://t.me/T1kTokModd",
+			"twitter": "https://t.me/T1kTokModd"
+		}
+	}
+]
 }
