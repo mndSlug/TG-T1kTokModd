@@ -1,12 +1,12 @@
 {
-    "name": "tg: @T1kTokModd",
+    "name": "Tg: @T1kTokModd",
     "identifier": " ",
     "sourceURL": " ",
-	"message": "Telegram: 🔥🔥🔥@T1kTokModd🔥🔥🔥 \n\nЕсли ваш iOS 16+ переходим в настройки -> настройки подписи -> метод установки -> сервер. Иначе приложения не будут устанавливаться!!!",
+	"message": "Tg: 🔥🔥🔥@T1kTokModd🔥🔥🔥 \n\nЕсли ваш iOS 16+ переходим в настройки -> настройки подписи -> метод установки -> сервер. Иначе приложения не будут устанавливаться!!!",
     "apps": [
         {
             "name": "TikTokLRD",
-            "version": "28.9.1 + LRD2.1",
+            "version": "28.9.1 + LRD",
             "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_LRD_@T1kTokModd.ipa",
             "localizedDescription": "Приложение TikTok LRD.",
             "versionDate": "2023-01-28T19:30:00+0300",
@@ -16,11 +16,41 @@
         },
         {
             "name": "TikTokDARK",
-            "version": "28.9.1 + LRD2.1",
+            "version": "28.9.1 + DARK",
             "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/TikTok_28.9.1_Dark_@T1kTokModd.ipa",
             "localizedDescription": "Приложение TikTok DARK.",
             "versionDate": "2023-01-28T19:30:00+0300",
             "iconURL": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/tticon.png",
+            "size": 153690824 ,
+			"type": "1"
+        },
+        {
+            "name": "Tinkoff",
+            "version": "6.13.5",
+            "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/Tinkoff_6.13.5_@T1kTokModd.ipa",
+            "localizedDescription": "Приложение Тинькофф банк (удалённо из AppStore)",
+            "versionDate": "2023-01-28T19:30:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/lombergFast/soitropeo/main/501A639C-74A8-47D1-9208-0F0F6237C058.png",
+            "size": 153690824 ,
+			"type": "1"
+        },
+        {
+            "name": "Деньги Всем (Альфа-Банк)",
+            "version": "1.1",
+            "downloadURL": "https://github.com/lombergFast/soitropeo/releases/latest/download/Dengi_1.1_@ttskarl.ipa",
+            "localizedDescription": "Приложение Альфа-Банк (удалено из AppStore)",
+            "versionDate": "2023-01-28T19:30:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/lombergFast/soitropeo/main/7183C714-BD98-43AB-98D8-D6A3479B63B9.png",
+            "size": 153690824 ,
+			"type": "1"
+        },
+        {
+            "name": "СБОЛ(Сбербанк)",
+            "version": "1.1",
+            "downloadURL": "https://github.com/mndSlug/TG-T1kTokModd/releases/download/mod/SBOL_14.3.0_@T1kTokModd.ipa",
+            "localizedDescription": "Приложение Сбербанк (на данный момент есть в AppStore но не у всех)",
+            "versionDate": "2023-01-28T19:30:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/mndSlug/TG-T1kTokModd/main/photos/sbol.png",
             "size": 153690824 ,
 			"type": "1"
         }
